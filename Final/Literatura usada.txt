@@ -1,0 +1,16 @@
+#1)
+UDP based CHAT APP using Python.
+By:Lalit Yadav
+https://medium.com/analytics-vidhya/udp-based-chat-app-using-python-7cba375f18e0
+#2)
+Simple FTP File Transfer using UDP
+By:Aditya Bhardwaj
+https://intellectape.com/simple-ftp-file-transfer/
+#3)
+Python Socket File Transfer Send
+By: Bamdeb Ghosh
+https://linuxhint.com/python_socket_file_transfer_send/
+#4)
+Send and receive UDP packets via Python
+By: Bamdeb Ghosh
+https://linuxhint.com/send_receive_udp_python/
